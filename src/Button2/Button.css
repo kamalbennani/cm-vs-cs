@@ -1,0 +1,8 @@
+.Button {
+  position: relative;
+  display: inline-block;
+  text-align: center;
+  line-height: 1.43;
+  transition: 0.2s all;
+  outline-color: transparent;
+}
